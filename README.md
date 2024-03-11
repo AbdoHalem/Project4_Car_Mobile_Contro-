@@ -20,4 +20,5 @@ then send 'f' to move forward,
 'r' to move right,
 'l' to move left.
 We can return to automatic mode by send 'a'.
+
 ### In the two modes we can send 's' to stop the car.
